@@ -1,3 +1,5 @@
+//File di input modificato. Sono presenti due file distinti, in cui input.txt contiene per ogni linea 3 numeri, la quantità di crane da spostare e poi da dove a dove
+//Per il file cranes.txt contiene per ogni riga la pila corrispondente con solo i caratteri partendo dal "basso"
 #include "bits/stdc++.h"
 
 using namespace std;
